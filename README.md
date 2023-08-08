@@ -100,3 +100,4 @@ A simple, easier and highly customized menu solution
 
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
 - [v-region](https://github.com/TerryZ/v-region) | [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
+- [v-page](https://github.com/TerryZ/v-page) [![npm version](https://badge.fury.io/js/v-page.svg)](https://badge.fury.io/js/v-page)
