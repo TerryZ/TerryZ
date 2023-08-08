@@ -99,5 +99,15 @@ A simple, easier and highly customized menu solution
 ## Vue 3 Plugins
 
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
-- [v-region](https://github.com/TerryZ/v-region) | [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
-- [v-page](https://github.com/TerryZ/v-page) [![npm version](https://badge.fury.io/js/v-page.svg)](https://badge.fury.io/js/v-page)
+- [v-region](https://github.com/TerryZ/v-region) [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
+- [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
+
+## Vue 2 Plugins
+
+## jQuery Plugins
+
+- [SelectPage](https://github.com/TerryZ/SelectPage)
+- [SelectMenu](https://github.com/TerryZ/SelectMenu)
+- [bDialog](https://github.com/TerryZ/bDialog)
+- [bPage](https://github.com/TerryZ/bPage)
+- [bTabs](https://github.com/TerryZ/bTabs)
