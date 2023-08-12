@@ -101,8 +101,4 @@ A simple, easier and highly customized menu solution
 
 ## jQuery Plugins
 
-- [SelectPage](https://github.com/TerryZ/SelectPage)
-- [SelectMenu](https://github.com/TerryZ/SelectMenu)
-- [bDialog](https://github.com/TerryZ/bDialog)
-- [bPage](https://github.com/TerryZ/bPage)
-- [bTabs](https://github.com/TerryZ/bTabs)
+[SelectPage](https://github.com/TerryZ/SelectPage) | [SelectMenu](https://github.com/TerryZ/SelectMenu) | [bDialog](https://github.com/TerryZ/bDialog) | [bPage](https://github.com/TerryZ/bPage) | [bTabs](https://github.com/TerryZ/bTabs)
