@@ -101,5 +101,5 @@ A simple, easier and highly customized menu solution
 
 ## jQuery Plugins
 
-[SelectPage](https://github.com/TerryZ/SelectPage) &middot; ![image](https://github.com/TerryZ/TerryZ/assets/854406/f7ab2fcf-4010-421b-b859-152b67cca02f)
+[SelectPage](https://github.com/TerryZ/SelectPage) &#183; ![image](https://github.com/TerryZ/TerryZ/assets/854406/f7ab2fcf-4010-421b-b859-152b67cca02f)
  [SelectMenu](https://github.com/TerryZ/SelectMenu) | [bDialog](https://github.com/TerryZ/bDialog) | [bPage](https://github.com/TerryZ/bPage) | [bTabs](https://github.com/TerryZ/bTabs)
