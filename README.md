@@ -86,7 +86,7 @@ A simple, easier and highly customized menu solution
 
 ## Vue 2 Plugins
 
-- [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
+- [v-dropdown](https://github.com/TerryZ/v-dropdown) ![npm (custom registry)](https://img.shields.io/npm/v/v-dropdown/vue-2?label=npm)
 - [v-region](https://github.com/TerryZ/v-region) [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
 - [v-selectpage](https://github.com/TerryZ/v-selectpage) [![npm version](https://img.shields.io/npm/v/v-selectpage.svg)](https://www.npmjs.com/package/v-selectpage)
 - [v-selectmenu](https://github.com/TerryZ/v-selectmenu) [![npm version](https://img.shields.io/npm/v/v-selectmenu.svg)](https://www.npmjs.com/package/v-selectmenu)
