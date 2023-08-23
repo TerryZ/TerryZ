@@ -96,7 +96,6 @@ A simple, easier and highly customized menu solution
 - [v-tablegrid](https://github.com/TerryZ/v-tablegrid) [![npm version](https://img.shields.io/npm/v/v-tablegrid.svg)](https://www.npmjs.com/package/v-tablegrid)
 - [v-uploader](https://github.com/TerryZ/v-uploader) [![npm version](https://img.shields.io/npm/v/v-uploader.svg)](https://www.npmjs.com/package/v-uploader)
 - [v-gallery](https://github.com/TerryZ/v-gallery) [![npm version](https://img.shields.io/npm/v/v-gallery.svg)](https://www.npmjs.com/package/v-gallery)
-- [v-ztree](https://github.com/TerryZ/v-ztree) [![npm version](https://img.shields.io/npm/v/v-ztree.svg)](https://www.npmjs.com/package/v-ztree)
 - [v-playback](https://github.com/TerryZ/v-playback) [![npm version](https://img.shields.io/npm/v/v-playback.svg)](https://www.npmjs.com/package/v-playback)
 
 ## jQuery Plugins
