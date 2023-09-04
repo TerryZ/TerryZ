@@ -4,9 +4,7 @@ Hi there 👋
 </h2>
 -->
 
-<h2>
-Hi there 👋
-</h2>
+## Hi there 👋
 
 <!--
 
@@ -26,17 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=terryz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-</p>
+### Github stats
 
-<p>
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=terryz&include_all_commits=true&hide_border=true&theme=dark&date_format=Y-n-j" />
-</p>
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryz&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&hide_border=true&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
+| - | - |
 
-<p>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
-</p>
+### Streak stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=terryz&theme=catppuccin-latte&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 #### [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
@@ -86,12 +81,16 @@ A simple, easier and highly customized menu solution
 
 ## Vue 3 Plugins
 
+Vue 3 plugin series documentation: [docs-vue3](https://terryz.github.io/docs-vue3/)
+
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
 - [v-region](https://github.com/TerryZ/v-region) [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
 - [v-selectpage](https://github.com/TerryZ/v-selectpage) [![npm version](https://img.shields.io/npm/v/v-selectpage.svg)](https://www.npmjs.com/package/v-selectpage)
 - [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
 
 ## Vue 2 Plugins
+
+Vue 3 plugin series documentation: [docs-vue](https://terryz.github.io/docs-vue/)
 
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) ![npm (custom registry)](https://img.shields.io/npm/v/v-dropdown/vue-2?label=npm)
 - [v-region](https://github.com/TerryZ/v-region) ![npm (custom registry)](https://img.shields.io/npm/v/v-region/vue-2?label=npm)
