@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 ### Github stats
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryz&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&hide_border=true&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryz&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&hide_border=true&bg_color=ffffff) |
 | - | - |
 
 ### Streak stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=terryz&theme=catppuccin-latte&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=terryz&theme=catppuccin-latte&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly)
 
 <!--
 #### [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
