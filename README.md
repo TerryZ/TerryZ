@@ -81,7 +81,7 @@ A simple, easier and highly customized menu solution
 
 ## Vue 3 Plugins
 
-Vue 3 plugin series documentation: [docs-vue3](https://terryz.github.io/docs-vue3/)
+Documentation for the Vue 3 plugin series: [docs-vue3](https://terryz.github.io/docs-vue3/)
 
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
 - [v-region](https://github.com/TerryZ/v-region) [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
@@ -90,7 +90,7 @@ Vue 3 plugin series documentation: [docs-vue3](https://terryz.github.io/docs-vue
 
 ## Vue 2 Plugins
 
-Vue 3 plugin series documentation: [docs-vue](https://terryz.github.io/docs-vue/)
+Documentation for the Vue 2 plugin series: [docs-vue](https://terryz.github.io/docs-vue/)
 
 - [v-dropdown](https://github.com/TerryZ/v-dropdown) ![npm (custom registry)](https://img.shields.io/npm/v/v-dropdown/vue-2?label=npm)
 - [v-region](https://github.com/TerryZ/v-region) ![npm (custom registry)](https://img.shields.io/npm/v/v-region/vue-2?label=npm)
