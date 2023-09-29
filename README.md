@@ -94,17 +94,19 @@ Documentation for the Vue 3 plugin series: [docs-vue3](https://terryz.github.io/
 
 Documentation for the Vue 2 plugin series: [docs-vue](https://terryz.github.io/docs-vue/)
 
-- [v-dropdown](https://github.com/TerryZ/v-dropdown) ![npm (custom registry)](https://img.shields.io/npm/v/v-dropdown/vue-2?label=npm)
-- [v-region](https://github.com/TerryZ/v-region) ![npm (custom registry)](https://img.shields.io/npm/v/v-region/vue-2?label=npm)
-- [v-selectpage](https://github.com/TerryZ/v-selectpage) ![npm (custom registry)](https://img.shields.io/npm/v/v-selectpage/vue-2?label=npm)
-- [v-selectmenu](https://github.com/TerryZ/v-selectmenu) [![npm version](https://img.shields.io/npm/v/v-selectmenu.svg)](https://www.npmjs.com/package/v-selectmenu)
-- [v-page](https://github.com/TerryZ/v-page) ![npm (custom registry)](https://img.shields.io/npm/v/v-page/vue-2?label=npm)
-- [v-suggest](https://github.com/TerryZ/v-suggest) [![npm version](https://img.shields.io/npm/v/v-suggest.svg)](https://www.npmjs.com/package/v-suggest)
-- [v-dialogs](https://github.com/TerryZ/v-dialogs) [![npm version](https://img.shields.io/npm/v/v-dialogs.svg)](https://www.npmjs.com/package/v-dialogs)
-- [v-tablegrid](https://github.com/TerryZ/v-tablegrid) [![npm version](https://img.shields.io/npm/v/v-tablegrid.svg)](https://www.npmjs.com/package/v-tablegrid)
-- [v-uploader](https://github.com/TerryZ/v-uploader) [![npm version](https://img.shields.io/npm/v/v-uploader.svg)](https://www.npmjs.com/package/v-uploader)
-- [v-gallery](https://github.com/TerryZ/v-gallery) [![npm version](https://img.shields.io/npm/v/v-gallery.svg)](https://www.npmjs.com/package/v-gallery)
-- [v-playback](https://github.com/TerryZ/v-playback) [![npm version](https://img.shields.io/npm/v/v-playback.svg)](https://www.npmjs.com/package/v-playback)
+| Name | Version |
+| - | - |
+| [v-dropdown](https://github.com/TerryZ/v-dropdown) | ![npm (custom registry)](https://img.shields.io/npm/v/v-dropdown/vue-2?label=npm) |
+| [v-region](https://github.com/TerryZ/v-region) | ![npm (custom registry)](https://img.shields.io/npm/v/v-region/vue-2?label=npm) |
+| [v-selectpage](https://github.com/TerryZ/v-selectpage) | ![npm (custom registry)](https://img.shields.io/npm/v/v-selectpage/vue-2?label=npm) |
+| [v-selectmenu](https://github.com/TerryZ/v-selectmenu) | [![npm version](https://img.shields.io/npm/v/v-selectmenu.svg)](https://www.npmjs.com/package/v-selectmenu) |
+| [v-page](https://github.com/TerryZ/v-page) | ![npm (custom registry)](https://img.shields.io/npm/v/v-page/vue-2?label=npm) |
+| [v-suggest](https://github.com/TerryZ/v-suggest) | [![npm version](https://img.shields.io/npm/v/v-suggest.svg)](https://www.npmjs.com/package/v-suggest) |
+| [v-dialogs](https://github.com/TerryZ/v-dialogs) | [![npm version](https://img.shields.io/npm/v/v-dialogs.svg)](https://www.npmjs.com/package/v-dialogs) |
+| [v-tablegrid](https://github.com/TerryZ/v-tablegrid) | [![npm version](https://img.shields.io/npm/v/v-tablegrid.svg)](https://www.npmjs.com/package/v-tablegrid) |
+| [v-uploader](https://github.com/TerryZ/v-uploader) | [![npm version](https://img.shields.io/npm/v/v-uploader.svg)](https://www.npmjs.com/package/v-uploader) |
+| [v-gallery](https://github.com/TerryZ/v-gallery) | [![npm version](https://img.shields.io/npm/v/v-gallery.svg)](https://www.npmjs.com/package/v-gallery) |
+| [v-playback](https://github.com/TerryZ/v-playback) | [![npm version](https://img.shields.io/npm/v/v-playback.svg)](https://www.npmjs.com/package/v-playback) |
 
 ## jQuery Plugins
 
