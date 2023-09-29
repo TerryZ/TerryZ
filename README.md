@@ -79,16 +79,18 @@ A Vue2 plugin to make video play easier
 A simple, easier and highly customized menu solution
 -->
 
-## Vue 3 Plugins
+## Vue 3 Components
 
 Documentation for the Vue 3 plugin series: [docs-vue3](https://terryz.github.io/docs-vue3/)
 
-- [v-dropdown](https://github.com/TerryZ/v-dropdown) [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown)
-- [v-region](https://github.com/TerryZ/v-region) [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region)
-- [v-selectpage](https://github.com/TerryZ/v-selectpage) [![npm version](https://img.shields.io/npm/v/v-selectpage.svg)](https://www.npmjs.com/package/v-selectpage)
-- [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
+| Name | Version |
+| - | - |
+| [v-dropdown](https://github.com/TerryZ/v-dropdown) | [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown) |
+| [v-region](https://github.com/TerryZ/v-region) | [![npm version](https://img.shields.io/npm/v/v-region.svg)](https://www.npmjs.com/package/v-region) |
+| [v-selectpage](https://github.com/TerryZ/v-selectpage) | [![npm version](https://img.shields.io/npm/v/v-selectpage.svg)](https://www.npmjs.com/package/v-selectpage) |
+| [v-page](https://github.com/TerryZ/v-page) | [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page) |
 
-## Vue 2 Plugins
+## Vue 2 Components
 
 Documentation for the Vue 2 plugin series: [docs-vue](https://terryz.github.io/docs-vue/)
 
