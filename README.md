@@ -81,7 +81,7 @@ A simple, easier and highly customized menu solution
 
 ## Vue 3 Components
 
-Documentation for the Vue 3 plugin series: [docs-vue3](https://terryz.github.io/docs-vue3/)
+Documentation for the Vue 3 series component: [docs-vue3](https://terryz.github.io/docs-vue3/)
 
 | Name | Version |
 | - | - |
@@ -93,7 +93,7 @@ Documentation for the Vue 3 plugin series: [docs-vue3](https://terryz.github.io/
 
 ## Vue 2 Components
 
-Documentation for the Vue 2 plugin series: [docs-vue](https://terryz.github.io/docs-vue/)
+Documentation for the Vue 2 series component: [docs-vue](https://terryz.github.io/docs-vue/)
 
 | Name | Version |
 | - | - |
