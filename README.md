@@ -83,6 +83,7 @@ A simple, easier and highly customized menu solution
 
 Documentation for the Vue 3 series component: [docs-vue3](https://terryz.github.io/docs-vue3/)
 
+<!--
 | Name | Version |
 | - | - |
 | [v-dropdown](https://github.com/TerryZ/v-dropdown) | [![npm version](https://img.shields.io/npm/v/v-dropdown.svg)](https://www.npmjs.com/package/v-dropdown) |
@@ -90,6 +91,9 @@ Documentation for the Vue 3 series component: [docs-vue3](https://terryz.github.
 | [v-selectpage](https://github.com/TerryZ/v-selectpage) | [![npm version](https://img.shields.io/npm/v/v-selectpage.svg)](https://www.npmjs.com/package/v-selectpage) |
 | [v-page](https://github.com/TerryZ/v-page) | [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page) |
 | [v-dialogs](https://github.com/TerryZ/v-dialogs) | [![npm version](https://img.shields.io/npm/v/v-dialogs.svg)](https://www.npmjs.com/package/v-dialogs) |
+-->
+
+[v-page](https://github.com/TerryZ/v-page) • [v-dropdown](https://github.com/TerryZ/v-dropdown) • [v-region](https://github.com/TerryZ/v-region) • [v-selectpage](https://github.com/TerryZ/v-selectpage) • [v-dialogs](https://github.com/TerryZ/v-dialogs)
 
 ## Vue 2 Components
 
@@ -112,3 +116,5 @@ Documentation for the Vue 2 series component: [docs-vue](https://terryz.github.i
 ## jQuery Plugins
 
 [SelectPage](https://github.com/TerryZ/SelectPage) • [SelectMenu](https://github.com/TerryZ/SelectMenu) • [bDialog](https://github.com/TerryZ/bDialog) • [bPage](https://github.com/TerryZ/bPage) • [bTabs](https://github.com/TerryZ/bTabs)
+
+![](https://komarev.com/ghpvc/?username=terryz&style=for-the-badge&color=green)
