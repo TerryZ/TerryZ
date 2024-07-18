@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Metrics
+
+![Metrics](./metrics.base.svg)
+
 ### Github stats
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryz&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&hide_border=true&bg_color=ffffff) |
@@ -113,9 +117,9 @@ Documentation for the Vue 2 series component: [docs-vue](https://terryz.github.i
 
 [SelectPage](https://github.com/TerryZ/SelectPage) • [SelectMenu](https://github.com/TerryZ/SelectMenu) • [bDialog](https://github.com/TerryZ/bDialog) • [bPage](https://github.com/TerryZ/bPage) • [bTabs](https://github.com/TerryZ/bTabs)
 
-## Metrics
+## Activity charts
 
-![Metrics](./github-metrics.svg)
+![Metrics](./metrics.chart.svg)
 
 <!--
 ![Metrics](https://metrics.lecoq.io/terryz?template=classic&isocalendar=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&traffic=false&config.timezone=Asia%2FShanghai)
