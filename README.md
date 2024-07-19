@@ -30,12 +30,14 @@ A game player who writes code
 
 ![Metrics](./metrics.base.svg)
 
+<!--
+
 ### Github stats
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryz&include_all_commits=true&show_icons=true&hide_border=true&bg_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terryz&layout=compact&hide_border=true&bg_color=ffffff) |
 | - | - |
 
-<!--
+
 #### [v-page](https://github.com/TerryZ/v-page) [![npm version](https://img.shields.io/npm/v/v-page.svg)](https://www.npmjs.com/package/v-page)
 
 A simple pagination bar, including length Menu, i18n support
