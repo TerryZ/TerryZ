@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A game player who writes code
+I am TerryZ, a game player who writes code
 
 ### Github metrics
 
