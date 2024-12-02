@@ -97,7 +97,7 @@ A simple, easier and highly customized menu solution
 | [v-dialogs](https://github.com/TerryZ/v-dialogs) | [![npm version](https://img.shields.io/npm/v/v-dialogs.svg)](https://www.npmjs.com/package/v-dialogs) |
 -->
 
-[v-page](https://github.com/TerryZ/v-page) • [v-dropdown](https://github.com/TerryZ/v-dropdown) • [v-region](https://github.com/TerryZ/v-region) • [v-selectpage](https://github.com/TerryZ/v-selectpage) • [v-dialogs](https://github.com/TerryZ/v-dialogs) • [v-layouts](https://github.com/TerryZ/v-layouts)
+[v-page](https://github.com/TerryZ/v-page) • [v-dropdown](https://github.com/TerryZ/v-dropdown) • [v-region](https://github.com/TerryZ/v-region) • [v-selectpage](https://github.com/TerryZ/v-selectpage) • [v-dialogs](https://github.com/TerryZ/v-dialogs) • [v-layouts](https://github.com/TerryZ/v-layouts) • [v-selectmenu](https://github.com/TerryZ/v-selectmenu)
 
 Documentation for the Vue 3 series component: [docs-vue3](https://terryz.github.io/docs-vue3/)
 
