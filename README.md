@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 I am TerryZ, a game player who writes code
 
+<!--
 [Discord](https://discord.com/channels/1263696315465072640/1263696316203008124)
+-->
 
 ### Github metrics
 
